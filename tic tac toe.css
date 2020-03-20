@@ -1,0 +1,32 @@
+td {
+    
+    width: 400px;
+    height: 400px;
+  }
+
+  table {
+    border-collapse: collapse;
+}
+
+#t1{
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+#t3 {
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+  }
+
+  #t5 {
+    border: 1px solid black;
+  }
+
+  #t7 {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+  }
+  #t9 {
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+  }
