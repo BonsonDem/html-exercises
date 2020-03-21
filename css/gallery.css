@@ -18,3 +18,8 @@ nav>ul>li{
     padding: 10px 3px;
     font-size: 10px;
 }
+@media screen and (min-width: 480px) {
+    body {
+        background-color: rgb(251, 0, 0);
+    }
+}
