@@ -30,12 +30,12 @@ ul{
 .flex-container {
     display: -webkit-flex;
     display: flex;
-    width: 400px;
+    width: 30%;
     height: 250px;
 }
 
 .flex-item {
-    width: 1000px;
-    height: 1000px;
+    width: 1400px;
+    height: 800px;
     margin: auto;
 }
